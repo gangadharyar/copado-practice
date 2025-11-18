@@ -7,6 +7,16 @@
         <errorMessage>Amount should be more than 10</errorMessage>
     </validationRules>
     <fields>
+        <fullName>Practice_Field_2__c</fullName>
+        <externalId>false</externalId>
+        <label>Practice_Field_2</label>
+        <length>50</length>
+        <required>false</required>
+        <trackFeedHistory>false</trackFeedHistory>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
         <fullName>Test_Practice_c__c</fullName>
         <externalId>false</externalId>
         <label>Test_Practice__c</label>
