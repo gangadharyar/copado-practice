@@ -6,4 +6,14 @@
         <errorConditionFormula>Amount__c  &gt; 10</errorConditionFormula>
         <errorMessage>Amount should be more than 10</errorMessage>
     </validationRules>
+    <fields>
+        <fullName>Test_Practice_c__c</fullName>
+        <externalId>false</externalId>
+        <label>Test_Practice__c</label>
+        <length>50</length>
+        <required>false</required>
+        <trackFeedHistory>false</trackFeedHistory>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
 </CustomObject>
